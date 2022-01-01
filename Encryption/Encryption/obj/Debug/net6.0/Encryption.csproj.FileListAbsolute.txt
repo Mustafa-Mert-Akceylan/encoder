@@ -1,0 +1,15 @@
+C:\Users\mert4\Desktop\Yeni klasör\Encryption\Encryption\bin\Debug\net6.0\Encryption.exe
+C:\Users\mert4\Desktop\Yeni klasör\Encryption\Encryption\bin\Debug\net6.0\Encryption.deps.json
+C:\Users\mert4\Desktop\Yeni klasör\Encryption\Encryption\bin\Debug\net6.0\Encryption.runtimeconfig.json
+C:\Users\mert4\Desktop\Yeni klasör\Encryption\Encryption\bin\Debug\net6.0\Encryption.dll
+C:\Users\mert4\Desktop\Yeni klasör\Encryption\Encryption\bin\Debug\net6.0\ref\Encryption.dll
+C:\Users\mert4\Desktop\Yeni klasör\Encryption\Encryption\bin\Debug\net6.0\Encryption.pdb
+C:\Users\mert4\Desktop\Yeni klasör\Encryption\Encryption\obj\Debug\net6.0\Encryption.csproj.AssemblyReference.cache
+C:\Users\mert4\Desktop\Yeni klasör\Encryption\Encryption\obj\Debug\net6.0\Encryption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mert4\Desktop\Yeni klasör\Encryption\Encryption\obj\Debug\net6.0\Encryption.AssemblyInfoInputs.cache
+C:\Users\mert4\Desktop\Yeni klasör\Encryption\Encryption\obj\Debug\net6.0\Encryption.AssemblyInfo.cs
+C:\Users\mert4\Desktop\Yeni klasör\Encryption\Encryption\obj\Debug\net6.0\Encryption.csproj.CoreCompileInputs.cache
+C:\Users\mert4\Desktop\Yeni klasör\Encryption\Encryption\obj\Debug\net6.0\Encryption.dll
+C:\Users\mert4\Desktop\Yeni klasör\Encryption\Encryption\obj\Debug\net6.0\ref\Encryption.dll
+C:\Users\mert4\Desktop\Yeni klasör\Encryption\Encryption\obj\Debug\net6.0\Encryption.pdb
+C:\Users\mert4\Desktop\Yeni klasör\Encryption\Encryption\obj\Debug\net6.0\Encryption.genruntimeconfig.cache
